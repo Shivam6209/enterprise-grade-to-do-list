@@ -1,0 +1,21 @@
+Natural Language Task Manager (Enterprise-Grade To-Do List)
+Objective:
+Build a Web App that lets a user add natural language tasks like:
+“Finish landing page Aman by 11pm 20th June”
+“Call client Rajeev tomorrow 5pm”
+Functionality Requirements:
+Extract:
+Task Name (e.g., “Finish landing page”)
+Assignee (e.g., “Aman”)
+Due Date & Time (e.g., “11pm 20th June”)
+Default priority P3 unless specified as P1, P2, or P4
+Display the parsed task in a beautiful UI task board/list.
+Example Output:
+Task	Assigned To	Due Date/Time	Priority
+Finish landing page	Aman	11:00 PM, 20 June	P3
+
+Allow editing of the parsed task directly in the UI.
+Here is a detailed Submission Guideline for the Natural Language Task Manager (Enterprise-Grade To-Do List) project:
+make ui good use good icons and effects.
+do not hardoce any key in code use .env.
+remeber you don't have authority to add commit or push anything on git.
